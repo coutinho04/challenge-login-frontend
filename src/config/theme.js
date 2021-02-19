@@ -1,0 +1,10 @@
+export const toreaBay = '#383E71';
+export const portage = '#989FDB';
+export const darkOrchid = '#9D25B0';
+export const sapphire = '#130525';
+export const royalPurple = '#693999';
+export const gainsboro = '#E5E5E5';
+export const wisteria = '#CF99DB';
+export const white = '#FFFFFF';
+export const magnolia = '#FAF5FF';
+export const wildStrawberry = '#FF377F';
