@@ -8,6 +8,8 @@
   <a href="#memo-license">License</a>
 </p>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/39f6182d-6c94-4c0a-9f52-d421434c011d/deploy-status)](https://app.netlify.com/sites/naughty-hugle-ce7983/deploys)
+
 ## :rocket: Technologies
 
 - [ReactJS](https://reactjs.org/)
