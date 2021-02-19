@@ -33,9 +33,9 @@ $ yarn install
 # Run the app
 $ yarn start
 
+```
 # Endpoint for testing
 - [mockapi.io](https://602ed55b4410730017c515c7.mockapi.io/users)
-```
 
 ## :memo: License
 
