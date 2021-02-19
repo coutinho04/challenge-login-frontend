@@ -34,8 +34,7 @@ $ yarn install
 $ yarn start
 
 ```
-# Endpoint for testing
-- [mockapi.io](https://602ed55b4410730017c515c7.mockapi.io/users)
+Use this [endpoint][mockapi.io] for testing.
 
 ## :memo: License
 
@@ -48,3 +47,4 @@ Made by Felipe Coutinho
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
+[mockapi.io]: https://602ed55b4410730017c515c7.mockapi.io/users
